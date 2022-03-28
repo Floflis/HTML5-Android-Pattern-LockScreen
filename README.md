@@ -18,7 +18,7 @@ http://wassimchegham.com/apps/js/android-lock-screen/
 DISCLAIMER 
 ================================
 
-This project is in its Prouf of Concept stage. Please don't use it in your production app
+This project is in its Proof of Concept stage. Please don't use it in your production app
 
 LICENSE
 ================================

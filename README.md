@@ -1,5 +1,5 @@
 # Project status
-⚠️ This project has been archived. Please check my other project: https://github.com/manekinekko/angular-screen-lock
+⚠️ This project has been archived upstream. Please check their other project: https://github.com/manekinekko/angular-screen-lock; Even with the upstream deprecation, this pattern lockscreen library will still be used (as it is vanilla JS without the need of AngularJS).
 
 ## HTML5-Android-Pattern-LockScreen
 
